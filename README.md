@@ -34,7 +34,6 @@ The results support operational optimization, proactive maintenance, and better 
 ## 🏆 **Project Objectives**
 
 * **Identify the main factor causing production downtime** to determine which issues have the highest overall impact on operational efficiency.
-* **Predict the expected production breakdowns and stoppages for the following day** using analytical and forecasting models.
 * **Estimate how many batches are expected to be produced tomorrow** to support planning and resource distribution.
 * **Determine the top 5 reasons for production downtime** based on both frequency and downtime duration.
 * **Measure how much downtime is caused by operator errors compared to other factors** to highlight areas for training and performance improvement.
@@ -155,4 +154,5 @@ To analyze efficiency, determine root downtime causes, and forecast future downt
 
 ```bash
 git clone https://github.com/yourrepo/project.git
+
 ```
